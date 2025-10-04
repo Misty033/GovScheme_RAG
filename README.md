@@ -45,7 +45,7 @@ This is the new full-code version of the Indian Government Schemes Assistant, bu
 
 1. **Clone the repository**
 ```bash
-git clone <[this-repo-url](https://github.com/Misty033/GovScheme_RAG)>
+git clone https://github.com/Misty033/GovScheme_RAG
 ```
 2. **Install dependencies**
 ```bash
