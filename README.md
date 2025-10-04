@@ -55,7 +55,7 @@ pip install -r requirements.txt
 - Load preprocessed scheme documents and vector store.
 - Initialize RAG chain and judge LLM chain.
 - Run interactive chat for either:
-  - Mode 1: Personalized scheme recommendations.
+  - Mode 1: Scheme suggestions.
   - Mode 2: Direct scheme query.
 4. **Output**
    Structured scheme information with sources, completeness, and confidence scores.
