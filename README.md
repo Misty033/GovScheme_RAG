@@ -1,7 +1,7 @@
 # RAG-Based Indian Government Schemes Assistant
 A fully-coded Retrieval-Augmented Generation (RAG) system that delivers accurate, structured information on Indian government schemes, supporting direct queries and personalized recommendations, with LLM-based evaluation.
 
---
+
 ## Project Overview
 This is the new full-code version of the Indian Government Schemes Assistant, building upon the earlier version [[link to earlier repo](https://github.com/Misty033/Government-Scheme-retrival-system-using-LLMs)] which used no-code tools.
 
@@ -19,7 +19,7 @@ This is the new full-code version of the Indian Government Schemes Assistant, bu
 - Interactive chat interface with memory for follow-up questions.
 - No reliance on no-code tools — complete control over the pipeline.
 
---
+
 
 ## Key Features
 
@@ -30,7 +30,6 @@ This is the new full-code version of the Indian Government Schemes Assistant, bu
 - Memory-Enabled Conversation: Maintains context for follow-up queries.
 - Full-Code Flexibility: Easier to modify, extend, or integrate with other systems.
 
-  --
 
   ## Technologies Used
 
@@ -42,7 +41,7 @@ This is the new full-code version of the Indian Government Schemes Assistant, bu
 - Ollama SDK for LLM calls
 - ConversationBufferMemory for chat context
 
---
+
 
 ## How to Use
 
@@ -63,7 +62,7 @@ pip install -r requirements.txt
 4. **Output**
    Structured scheme information with sources, completeness, and confidence scores.
 
---
+
 
 ## Evaluation
 
@@ -71,7 +70,6 @@ pip install -r requirements.txt
 - Confidence Score: Measures reliability and relevance based on retrieved sources.
 - Reasoning: Brief explanation from the judge LLM.
 
-  --
 
   ## Future Scope
   
