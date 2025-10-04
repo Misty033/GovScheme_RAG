@@ -19,7 +19,7 @@ This is the new full-code version of the Indian Government Schemes Assistant, bu
 - Interactive chat interface with memory for follow-up questions.
 - No reliance on no-code tools — complete control over the pipeline.
 
-
+![rag_workflow](rag_workflow/scheme_rag.png)
 
 ### Key Features
 - Direct Scheme Queries: Ask about eligibility, benefits, application process, documents, duration, and more.
