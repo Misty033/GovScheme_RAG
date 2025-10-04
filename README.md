@@ -21,7 +21,7 @@ This is the new full-code version of the Indian Government Schemes Assistant, bu
 
 
 
-## Key Features
+### Key Features
 - Direct Scheme Queries: Ask about eligibility, benefits, application process, documents, duration, and more.
 - Suggestions: Collect user profile step-by-step and suggest schemes (Mode A).
 - Structured Responses: Includes all key fields, source citations, completeness, and confidence scores.
@@ -30,7 +30,7 @@ This is the new full-code version of the Indian Government Schemes Assistant, bu
 - Full-Code Flexibility: Easier to modify, extend, or integrate with other systems.
 
 
-  ## Technologies Used
+### Technologies Used
 - Python
 - LangChain for RAG orchestration
 - Large Language Models: Qwen2.5:8b (RAG), llama3.1:8b (Judge)
@@ -41,7 +41,7 @@ This is the new full-code version of the Indian Government Schemes Assistant, bu
 
 
 
-## How to Use
+### How to Use
 
 1. **Clone the repository**
 ```bash
@@ -62,13 +62,13 @@ pip install -r requirements.txt
 
 
 
-## Evaluation
+### Evaluation
 - Completeness Score: Measures how many key fields are correctly filled.
 - Confidence Score: Measures reliability and relevance based on retrieved sources.
 - Reasoning: Brief explanation from the judge LLM.
 
 
-  ## Future Scope
+### Future Scope
 - Recommendation Engine: Suggest schemes based on user profile and preferences.
 - Recommendation Evaluation: Implement proper evaluation metrics for recommendations.
 - Data Updates: Automate scraping and updating of scheme information.
