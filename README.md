@@ -75,11 +75,11 @@ pip install -r requirements.txt
 - Multilingual Support: Serve users in regional languages.
 - Voice Assistant: Enable voice-based interaction for enhanced accessibility.
 
+## This fully-coded approach provides more control, reliability, and extendibility compared to the no-code version.
+
 ## Author
 Misty Roy
 
-
-## This fully-coded approach provides more control, reliability, and extendibility compared to the no-code version.
 
 # Related Resources
 Earlier Version (No-Code / Low-Code): [Link to earlier repo](https://github.com/Misty033/Government-Scheme-retrival-system-using-LLMs)
