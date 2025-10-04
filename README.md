@@ -3,7 +3,7 @@ A fully-coded Retrieval-Augmented Generation (RAG) system that delivers accurate
 
 
 ### Project Overview
-This is the new full-code version of the Indian Government Schemes Assistant, building upon the earlier version [[link to earlier repo](https://github.com/Misty033/Government-Scheme-retrival-system-using-LLMs)] which used no-code tools.
+This is the new full-code version of the Indian Government Schemes Assistant, building upon the earlier version [link to earlier repo](https://github.com/Misty033/Government-Scheme-retrival-system-using-LLMs) which used no-code tools.
 
 ### Earlier Version Highlights:
 - Leveraged Jina AI for JSON conversion of scraped scheme data
