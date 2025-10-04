@@ -2,7 +2,7 @@
 A fully-coded Retrieval-Augmented Generation (RAG) system that delivers accurate, structured information on Indian government schemes, supporting direct queries and personalized recommendations, with LLM-based evaluation.
 
 
-## Project Overview
+### Project Overview
 This is the new full-code version of the Indian Government Schemes Assistant, building upon the earlier version [[link to earlier repo](https://github.com/Misty033/Government-Scheme-retrival-system-using-LLMs)] which used no-code tools.
 
 ### Earlier Version Highlights:
